@@ -212,8 +212,6 @@
                                       @JsonDeserialize(contentAs = FooImpl.class) JacksonExampleBuilder foos(List&lt;? extends Foo&gt; foos)
                                   }
                               }
-</pre></div></div>
-		</p>
 	</@f.featureSection>
 	
 	<@f.snippets name="Builder" />
